@@ -22,7 +22,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="#rocket-tecnologias"> :rocket: Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,9 +31,17 @@
 
 <br>
 
-<p align="center">
+<p align="justify">
   <img alt="Frontend" src="https://github.com/JerielZi/be-the-hero/blob/BeTheHero/prev.png" width="100%">
 </p>
+
+<br>
+
+## Pagina oficial do site 
+<p align ="justity">
+    <a href ="https://betheherofront-end.herokuapp.com/"> Pagina para registar a sua ONG</a> 
+</p>
+
 
 ## :rocket: Tecnologias
 
