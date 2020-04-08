@@ -82,9 +82,19 @@ cd mobile
 npm start
 ```
 
+
 <p align="center">
   <img alt="Frontend" src="frontend/src/assets/heroes.png" width="596px" height="574px">
 </p>
+
+## License
+
+This project is licensed under the MIT License
+
+## Agradecimentos
+
+* Rocketseat
+* Diego Fernandes
 
 ---
 
