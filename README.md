@@ -20,6 +20,9 @@
   <a href="https://img.shields.io/github/issues/JerielZi/be-the-hero">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/JerielZi/be-the-hero">
   </a>
+  
+  <img alt="license MIT " src="https://img.shields.io/badge/license-MIT-brightgreen">
+   
 </p>
 
 <p align="center">
