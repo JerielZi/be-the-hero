@@ -95,9 +95,10 @@ npm start
 </p>
 
 ## License
-
-This project is licensed under the MIT License
-
+<p align="justify">
+This project is licensed under the <a href="https://github.com/JerielZi/be-the-hero/blob/BeTheHero/LICENSE"> MIT <a/> License
+</p>
+    
 ## Agradecimentos
 
 * Rocketseat
