@@ -67,7 +67,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tornando possível o usuário visualizar casos publicados por ONGs e entrar em contato com elas via E-mail ou WhatsApp, ou no caso de uma ONG, se registar e encontrar um herói.
 
-## 🤔 Como contribuir
+## 🤔 Como você pode contribuir com este projeto
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
