@@ -55,13 +55,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 - [Npm](https://www.npmjs.com/)
-- [SqLite] (https://www.sqlite.org/index.html)
-- [Jest] (https://jestjs.io/)
-- [Celebrate] (https://github.com/arb/celebrate)
-- [Express] (http://expressjs.com/)
-- [Knex] (http://knexjs.org/)
-- [Nodemon] (https://nodemon.io/)
-- [Axios] (https://www.npmjs.com/package/axios) 
+- [SqLite](https://www.sqlite.org/index.html)
+- [Jest](https://jestjs.io/)
+- [Celebrate](https://github.com/arb/celebrate)
+- [Express](http://expressjs.com/)
+- [Knex](http://knexjs.org/)
+- [Nodemon](https://nodemon.io/)
+- [Axios](https://www.npmjs.com/package/axios) 
 
 ## 💻 Projeto
 
