@@ -42,7 +42,7 @@
 
 ## Pagina oficial do site 
 <p align ="justity">
-    <a href ="https://betheherofront-end.herokuapp.com/"> Pagina para registar a sua ONG</a> 
+    <a href ="https://betheherofront-end.herokuapp.com/" target="_blank"> Pagina para registar a sua ONG</a> 
 </p>
 
 
@@ -54,6 +54,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+- [Npm](https://www.npmjs.com/)
+- [SqLite] (https://www.sqlite.org/index.html)
+- [Jest] (https://jestjs.io/)
+- [Celebrate] (https://github.com/arb/celebrate)
+- [Express] (http://expressjs.com/)
+- [Knex] (http://knexjs.org/)
+- [Nodemon] (https://nodemon.io/)
+- [Axios] (https://www.npmjs.com/package/axios) 
 
 ## 💻 Projeto
 
